@@ -1,5 +1,9 @@
 Sensitive Information Recovery tool, made in Python.
 
+Download Python 3.11.7
+Run the batch file named "Setup"
+then you can run [I458I] Grabber
+
 ![Screenshot 2024-06-16 004844](https://github.com/I458I/I458I-Grabber/assets/116500541/d667a700-65ee-4fa8-9d68-93e6d346a3c3)
 
 
